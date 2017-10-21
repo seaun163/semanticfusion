@@ -1,0 +1,16 @@
+Class Name     Id  R   G   B     NOTES
+=========================================
+Background     0   20  20  20    DARK GREY
+Bed            1   0   128 128   TEAL
+Bookshelf      2   250 50  50    DARK RED
+Ceiling        3   102 0   204   PURPLE
+Chair          4   50  50  250   BRIGHT BLUE
+Floor          5   220 220 220   LIGHT GREY
+Furniture      6   255 69  20    ORANGE
+Objects        7   255 20  127   PINK
+Picture        8   50  50  150   DARK BLUE
+Sofa           9   222 180 140   TAN
+Table          10  50  250 50    BRIGHT GREEN
+Tv             11  255 215 0     GOLD
+Wall           12  150 150 150   GREY
+Window         13  0   255 255   CYAN
