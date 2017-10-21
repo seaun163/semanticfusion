@@ -11,7 +11,7 @@ The system has been developed for Linux. It has been tested on Arch Linux, with 
 Clone recursively with:
 
 ```
-git clone --recursive https://username@bitbucket.org/jbmcc/semanticfusion_public 
+git clone --recursive https://bitbucket.org/dysonroboticslab/semanticfusion
 ```
 
 Make sure you can have all the dependencies and can compile and run the two major software packages this framework uses: [elasticfusion](https://github.com/mp3guy/ElasticFusion) and [caffe](https://github.com/BVLC/caffe) (an old version with commit ```b23e9b1b2196a230d0```).  They have both been slightly modified for this repo, so to be sure they are working build both of the projects that are cloned within the this repo. The changes however are minor, so the compilation and dependency instructions provided for those projects still apply.
